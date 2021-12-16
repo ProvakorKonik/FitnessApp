@@ -1,0 +1,2 @@
+rootProject.name = "Stay Fit"
+include ':app'
